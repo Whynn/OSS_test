@@ -1,13 +1,13 @@
 # .gitignore
 
-#java class files
+#Java class files
 *.class
 
-#executable files
+#Executable files
 *.exe
 
-#object and archive files
+#Object and archive files
 *.[oa]
 
-#temp sub-directory
+#Temp sub-directory
 temp/
