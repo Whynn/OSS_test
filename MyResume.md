@@ -38,5 +38,5 @@
 *  MOS Excel & Outlook expert
 
 ####연락처
-github: https://github.com/Whynn
+github: https://github.com/Whynn  
 email: fine612@gmail.com
