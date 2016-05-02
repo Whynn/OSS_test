@@ -6,9 +6,8 @@
 2017.2월 한성대학교 컴퓨터공학부 졸업 예정 (복수전공 기계시스템공학과)
 
 ##### 세부 전공 기술(Major)
-
-* 언어
-  * C, C++, Python, Node.js, Java
+* 임베디드 프로그래밍
+* * 리눅스에서 C, Python, Node.js 코딩
 
 * 모바일 프로그래밍
   * 안드로이드
@@ -18,7 +17,7 @@
 ### 2. 보유기술(Technical Skills)
 
 2.1  Basics
-* Programming Languages: C, C++, __Java__,
+* Programming Languages: C, C++, Java, __Python__, __Node.js__
 * Operating Systems: __Linux__, Windows
 * IDE(Eclipse, Android Studio, Cloud9, Sketch)
 
