@@ -4,8 +4,7 @@
 
 ### 1. 학력(Education)
 2005.03 ~ 2011.02 [멋쟁이학교](http://www.sarangbang.org/srb/school/MJE/main.php) 졸업  
-2013.03 ~ 2017.02 한성대학교 [컴퓨터공학부](http://www.hansung.ac.kr/web/www/college_01_04_03_t1)
-                    졸업 예정 (복수전공 기계시스템공학과)
+2013.03 ~ 2017.02 한성대학교 [컴퓨터공학부](http://www.hansung.ac.kr/web/www/college_01_04_03_t1) 졸업 예정 (복수전공 기계시스템공학과)
 
 ##### 세부 전공 기술(Major)
 * 임베디드 프로그래밍
